@@ -11,7 +11,10 @@
         <details>
             <summary>All-Night Mask</summary>
             <div>
-                test
+                <b>Day3 18:00 - 6:00</b><br>
+                マニ屋の裏部屋にて500ルピーで販売されている。<br>
+                その周でバクダン屋のおふくろさんを助けてあげる必要がある。<br>
+                <iframe width="943" height="539" src="https://www.youtube.com/embed/07LIVLLWADU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </details>
         <details>
@@ -24,25 +27,37 @@
         <details>
             <summary>Bunny Hood</summary>
             <div>
-                test
+                <b>Day1,2,3 06:00 - 20:00</b><br>
+                牧場のヒヨコをブレー面でコッコにする。
             </div>
         </details>
         <details>
             <summary>Captain's Hat</summary>
             <div>
-                test
+                墓地奥の宝箱を開ける。<br>
+                <iframe width="895" height="671" src="https://www.youtube.com/embed/uEvSPXr184o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </details>
         <details>
             <summary>Circus Leader's Mask</summary>
             <div>
-                test
+                <b>Day1,2 22:00 - 05:00</b><br>
+                ミルクバーのイベントをこなす。<br>
+                <iframe width="895" height="503" src="https://www.youtube.com/embed/ihN8hEe5cQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </details>
         <details>
             <summary>Couple's Mask</summary>
             <div>
-                test
+                <b>Day1 10:00 - 20:00</b>町長公邸でアロマ夫人からカーフェイのお面を貰う<br>
+                <b>Day1 14:20 - 21:05</b>アンジュと深夜の密会を約束する<br>
+                <b>Day1 00:00 - 05:59</b>アンジュと密会をし、カーフェイへの手紙を投函する<br>
+                <b>Day2 16:10 - 21:05</b>マニ屋裏部屋でカーフェイからペンダントを貰い、アンジュに渡す（ペンダントを渡すのは翌朝でも構わない）<br>
+                <iframe width="943" height="539" src="https://www.youtube.com/embed/Itiihx9xLfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <b>Day3 18:00 - 23:59</b>サコンのアジトで太陽のお面を取り返す<br>
+                <iframe width="943" height="539" src="https://www.youtube.com/embed/6NIKOPHEHIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <b>Day3 04:30 - 05:59</b>カーフェイとアンジュの結婚を見届ける<br>
+                一日目にバクダン屋のおふくろを助けないこと
             </div>
         </details>
         <details>
