@@ -4,10 +4,7 @@
 
 <details>
     <summary>お面・仮面</summary>
-    <div>
-
-    <p style="padding-left: 3em;">
-        単一のお面指定
+    <div style="padding-left: 3em;">
 
         <details>
             <summary>All-Night Mask</summary>
