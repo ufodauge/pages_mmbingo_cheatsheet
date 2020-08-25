@@ -968,117 +968,117 @@
 <details>
     <summary>その他</summary>
     <div style="padding-left: 3em;">
-    <details>
-        <summary>Cremia's Reward(hug or 200 rupees)</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Defeat Captain Keeta</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Enter 4th Day</summary>
-        <div>
-            これが簡単 <br>
-            <iframe width="943" height="539" src="https://www.youtube.com/embed/9DjOlGO9L9k?t=13" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-    </details>
-    <details>
-        <summary>Hit All 10 Owl Statues</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Open 2 Graves</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Save Sun Mask</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Under 00:35 Epona Archery</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <h3>アイテム使用</h3>
-    <details>
-        <summary>Explode Hole in Ikana Castle Ceiling</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Pictograph of Dancing Redead</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Grow 8 Bean Plants</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Unbar 5 doors in the Well</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <h3>最終状態指定<h3>
-    <details>
-        <summary>No Shield</summary>
-        <div>
-            ライクライクに飲み込まれるのが簡単。
-        </div>
-    </details>
-    <details>
-        <summary>2 blank C-buttons</summary>
-        <div>
-            Equip Swap で増殖させたものをタックリーに盗ませるか、ポストに投函する（アロマ夫人や最終日夜のポストマンでもいい）<br>
-            <iframe width="943" height="539" src="https://www.youtube.com/embed/OcIuLYMEnkA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-    </details>
-    <details>
-        <summary>Blank B Button (no sword)</summary>
-        <div>
-            タックリーに盗まれるか、鍛冶屋に置いてくる
-        </div>
-    </details>
-    <details>
-        <summary>Rock Sirloin above head</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Exactly 333 Rupees in Wallet</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>500 Rupees in Wallet</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>1000 Rupees in Bank</summary>
-        <div>
-            test
-        </div>
-    </details>
+        <details>
+            <summary>Cremia's Reward(hug or 200 rupees)</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Defeat Captain Keeta</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Enter 4th Day</summary>
+            <div>
+                これが簡単 <br>
+                <iframe width="943" height="539" src="https://www.youtube.com/embed/9DjOlGO9L9k?t=13" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;   picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </details>
+        <details>
+            <summary>Hit All 10 Owl Statues</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Open 2 Graves</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Save Sun Mask</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Under 00:35 Epona Archery</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <h3>アイテム使用</h3>
+        <details>
+            <summary>Explode Hole in Ikana Castle Ceiling</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Pictograph of Dancing Redead</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Grow 8 Bean Plants</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Unbar 5 doors in the Well</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <h3>最終状態指定<h3>
+        <details>
+            <summary>No Shield</summary>
+            <div>
+                ライクライクに飲み込まれるのが簡単。
+            </div>
+        </details>
+        <details>
+            <summary>2 blank C-buttons</summary>
+            <div>
+                Equip Swap で増殖させたものをタックリーに盗ませるか、ポストに投函する（アロマ夫人や最終日夜のポストマンでもいい）<br>
+                <iframe width="943" height="539" src="https://www.youtube.com/embed/OcIuLYMEnkA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </details>
+        <details>
+            <summary>Blank B Button (no sword)</summary>
+            <div>
+                タックリーに盗まれるか、鍛冶屋に置いてくる
+            </div>
+        </details>
+        <details>
+            <summary>Rock Sirloin above head</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Exactly 333 Rupees in Wallet</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>500 Rupees in Wallet</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>1000 Rupees in Bank</summary>
+            <div>
+                test
+            </div>
+        </details>
     </div>
 </details>
