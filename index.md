@@ -3,6 +3,7 @@
 # ビンゴ攻略メモ
 
 一部省いているものがある。
+文句は受け付けます。
 
 <details>
     <summary>お面・仮面</summary>
@@ -14,68 +15,88 @@
                 <b>Day3 18:00 - 6:00</b><br>
                 マニ屋の裏部屋にて500ルピーで販売されている。<br>
                 その周でバクダン屋のおふくろさんを助けてあげる必要がある。<br>
-                <iframe width="943" height="539" src="https://www.youtube.com/embed/07LIVLLWADU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                めおとイベントと重複出来ないので注意。<br>
+                フックショットを使う方法<br>
+                <iframe width="480" src="https://www.youtube.com/embed/07LIVLLWADU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                ホバー10回で上から侵入する方法<br>
+                <iframe width="480" src="https://www.youtube.com/embed/NpmNj9t7tiE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </div>
         </details>
         <details>
             <summary>Blast Mask</summary>
             <div>
                 <b>Day1 00:30</b><br>
-                クロックタウン北でサコンから荷物を取り返す。
+                クロックタウン北でサコンから荷物を取り返す。<br>
+                めおとイベントと重複出来ないので注意。<br>
             </div>
         </details>
         <details>
             <summary>Bunny Hood</summary>
             <div>
                 <b>Day1,2,3 06:00 - 20:00</b><br>
+                必要アイテム：ブレー面、バクダン(2)＋ゾーラの仮面 etc…<br>
                 牧場のヒヨコをブレー面でコッコにする。
             </div>
         </details>
         <details>
             <summary>Captain's Hat</summary>
             <div>
+                必要アイテム：バクダン、フックショット or ゴロンの仮面＋ゾーラの仮面 etc…<br>
                 墓地奥の宝箱を開ける。<br>
-                <iframe width="895" height="671" src="https://www.youtube.com/embed/uEvSPXr184o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="480" src="https://www.youtube.com/embed/uEvSPXr184o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </details>
         <details>
             <summary>Circus Leader's Mask</summary>
             <div>
                 <b>Day1,2 22:00 - 05:00</b><br>
+                必要アイテム：ロマニーのお面 or バクダン or ボムチュウ<br>
                 ミルクバーのイベントをこなす。<br>
-                <iframe width="895" height="503" src="https://www.youtube.com/embed/ihN8hEe5cQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="480" src="https://www.youtube.com/embed/ihN8hEe5cQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="480" src="https://www.youtube.com/embed/MxNvUoZC8yM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </details>
         <details>
             <summary>Couple's Mask</summary>
             <div>
-                <b>Day1 10:00 - 20:00</b>町長公邸でアロマ夫人からカーフェイのお面を貰う<br>
-                <b>Day1 14:20 - 21:05</b>アンジュと深夜の密会を約束する<br>
-                <b>Day1 00:00 - 05:59</b>アンジュと密会をし、カーフェイへの手紙を投函する<br>
-                <b>Day2 16:10 - 21:05</b>マニ屋裏部屋でカーフェイからペンダントを貰い、アンジュに渡す（ペンダントを渡すのは翌朝でも構わない）<br>
-                <iframe width="943" height="539" src="https://www.youtube.com/embed/Itiihx9xLfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <b>Day3 18:00 - 23:59</b>サコンのアジトで太陽のお面を取り返す<br>
-                <iframe width="943" height="539" src="https://www.youtube.com/embed/6NIKOPHEHIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <b>Day3 04:30 - 05:59</b>カーフェイとアンジュの結婚を見届ける<br>
-                一日目にバクダン屋のおふくろを助けないこと
+                必要アイテム：インデックスワープ or フックショット<br>
+                <b>Day1 10:00 - 20:00</b> 町長公邸でアロマ夫人からカーフェイのお面を貰う。<br>
+                <b>Day1 14:20 - 21:05</b> アンジュと深夜の密会を約束する。<br>
+                <b>Day1 00:00 - 05:59</b> アンジュと密会をし、カーフェイへの手紙を投函する。<br>
+                <b>Day2 16:10 - 21:05</b> マニ屋裏部屋でカーフェイからペンダントを貰い、アンジュに渡す（ペンダントを渡すのは翌朝でも構わない）。<br>
+                <iframe width="480" src="https://www.youtube.com/embed/Itiihx9xLfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <b>Day3 18:00 - 23:59</b> サコンのアジトで太陽のお面を取り返す。<br>
+                <iframe width="480" src="https://www.youtube.com/embed/6NIKOPHEHIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="480" src="https://www.youtube.com/embed/QxcYk3HGbC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <b>Day3 04:30 - 05:59</b> カーフェイとアンジュの結婚を見届ける。<br>
+                一日目にバクダン屋のおふくろを助けないこと。
             </div>
         </details>
         <details>
             <summary>Garo Mask</summary>
             <div>
-                test
+                <b>Day1,2,3 06:00 - 17:59</b><br>
+                必要アイテム：エポナ<br>
+                ゴーマントラックでレースをし、勝利する（10ルピー/回）。<br>
+                その後のCSskipに繋げる場合↓<br>
+                <iframe width="480" src="https://www.youtube.com/embed/tpyhSY9Aewo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </details>
         <details>
             <summary>Giant's Mask</summary>
             <div>
-                test
+                必要アイテム：バクダン、勇者の弓、ボムチュウ or フックショット<br>
+                ロックビルの神殿（裏）で入手。<br>
             </div>
         </details>
         <details>
             <summary>Gibdo Mask</summary>
             <div>
-                test
+                必要アイテム：バクダン or ボムチュウ or フックショット or ゴロンの仮面<br>
+                オルゴールハウスで入手。<br>
+                <iframe width="480" src="https://www.youtube.com/embed/KiJ1WSwck6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="480" src="https://www.youtube.com/embed/9b0bJyke5PI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="480" src="https://www.youtube.com/embed/UmxlJQ6MZLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </details>
         <details>
@@ -999,7 +1020,7 @@
             <summary>Enter 4th Day</summary>
             <div>
                 これが簡単 <br>
-                <iframe width="943" height="539" src="https://www.youtube.com/embed/9DjOlGO9L9k?t=13" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;   picture-in-picture" allowfullscreen></iframe>
+                <iframe width="480" src="https://www.youtube.com/embed/9DjOlGO9L9k?t=13" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;   picture-in-picture" allowfullscreen></iframe>
             </div>
         </details>
         <details>
@@ -1062,7 +1083,7 @@
             <summary>2 blank C-buttons</summary>
             <div>
                 Equip Swap で増殖させたものをタックリーに盗ませるか、ポストに投函する（アロマ夫人や最終日夜のポストマンでもいい）<br>
-                <iframe width="943" height="539" src="https://www.youtube.com/embed/OcIuLYMEnkA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe>
+                <iframe width="480" src="https://www.youtube.com/embed/OcIuLYMEnkA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe>
             </div>
         </details>
         <details>
