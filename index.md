@@ -1,3 +1,5 @@
+<!-- マークダウン　#とは -->
+
 # ビンゴ攻略メモ
 
 一部省いているものがある。
@@ -5,6 +7,8 @@
 <details>
     <summary>お面・仮面</summary>
     <div style="padding-left: 3em;">
+
+## 単一のお面指定
 
         <details>
             <summary>All-Night Mask</summary>
@@ -96,15 +100,50 @@
                 test
             </div>
         </details>
-    </p>
 
-- スロット・個数指定
-    - 7 Masks
-    - 10 Masks
-    - 12 Masks
-    - 14 Masks
-    - Column of 4 Masks
-    - Row of 6 Masks
+## スロット・個数指定
+
+    <details>
+        <summary>7 Masks</summary>
+        <div>
+            test
+        </div>
+    </details>
+
+    <details>
+        <summary>10 Masks</summary>
+        <div>
+            test
+        </div>
+    </details>
+
+    <details>
+        <summary>12 Masks</summary>
+        <div>
+            test
+        </div>
+    </details>
+
+    <details>
+        <summary>14 Masks</summary>
+        <div>
+            test
+        </div>
+    </details>
+
+    <details>
+        <summary>Column of 4 Masks</summary>
+        <div>
+            test
+        </div>
+    </details>
+
+    <details>
+        <summary>Row of 6 Masks</summary>
+        <div>
+            test
+        </div>
+    </details>
 
     </div>
 </details>
