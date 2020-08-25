@@ -17,7 +17,7 @@
         <details>
             <summary>Blast Mask</summary>
             <div>
-                <b>Day1 00:30</b></br>
+                <b>Day1 00:30</b><br>
                 クロックタウン北でサコンから荷物を取り返す。
             </div>
         </details>
@@ -265,8 +265,8 @@
         <details>
             <summary>Room Key</summary>
             <div>
-                <b>Day1 13:50 - 16:10</b></br>
-                ナベカマ亭のアンジュに話しかける。 </br>
+                <b>Day1 13:50 - 16:10</b><br>
+                ナベカマ亭のアンジュに話しかける。 <br>
                 大翼を入手して戻ってくるとちょうどこの時間になることが多い。
             </div>
         </details>
@@ -648,7 +648,7 @@
     <details>
         <summary>Rosa Sister's Happiness Seal</summary>
         <div>
-            00:00 - 06:00 カマロを成仏してカマロのお面を入手、ローザ姉妹に踊りを披露する。</br>
+            00:00 - 06:00 カマロを成仏してカマロのお面を入手、ローザ姉妹に踊りを披露する。<br>
             最終日にもカマロはいるが、ローザ姉妹はいないので注意。
         </div>
     </details>
@@ -711,8 +711,8 @@
     <details>
         <summary>Keaton Quiz HP</summary>
         <div>
-            Day3 13:00 - 22:00 マニ屋裏部屋でキータンのお面を入手</br>
-            速達ももらえるので、カーフェイのお面を貰っているとついでにシャトー・ロマーニやポストハットの入手にも使える</br>
+            Day3 13:00 - 22:00 マニ屋裏部屋でキータンのお面を入手<br>
+            速達ももらえるので、カーフェイのお面を貰っているとついでにシャトー・ロマーニやポストハットの入手にも使える<br>
             <a href="https://kuizy.net/quiz/2955">キータンクイズの難問集</a>
         </div>
     </details>
@@ -983,7 +983,7 @@
     <details>
         <summary>Enter 4th Day</summary>
         <div>
-            これが簡単 </br>
+            これが簡単 <br>
             <iframe width="943" height="539" src="https://www.youtube.com/embed/9DjOlGO9L9k?t=13" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </details>
@@ -1046,7 +1046,7 @@
     <details>
         <summary>2 blank C-buttons</summary>
         <div>
-            Equip Swap で増殖させたものをタックリーに盗ませるか、ポストに投函する（アロマ夫人や最終日夜のポストマンでもいい）</br>
+            Equip Swap で増殖させたものをタックリーに盗ませるか、ポストに投函する（アロマ夫人や最終日夜のポストマンでもいい）<br>
             <iframe width="943" height="539" src="https://www.youtube.com/embed/OcIuLYMEnkA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </details>
