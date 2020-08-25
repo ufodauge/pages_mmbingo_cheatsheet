@@ -1,10 +1,4 @@
-<!-<details>
-    <summary>マークダウン　#とは --></summary>
-    <div>
-        test
-    </div>
-</details>
-
+<!- マークダウン　#とは -->
 
 # ビンゴ攻略メモ
 
