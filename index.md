@@ -6,99 +6,100 @@
     <summary>お面・仮面</summary>
     <div>
 
-* 単一のお面指定
+    <p style="padding-left: 3em;">
+        単一のお面指定
 
-    <details>
-        <summary>All-Night Mask</summary>
-        <div>
-            test
-        </div>
-    </details>
-
-    <details>
-        <summary>Blast Mask</summary>
-        <div>
-            test
-        </div>
-    </details>
+        <details>
+            <summary>All-Night Mask</summary>
+            <div>
+                test
+            </div>
+        </details>
     
-    <details>
-        <summary>Bunny Hood</summary>
-        <div>
-            test
-        </div>
-    </details>
+        <details>
+            <summary>Blast Mask</summary>
+            <div>
+                test
+            </div>
+        </details>
     
-    <details>
-        <summary>Captain's Hat</summary>
-        <div>
-            test
-        </div>
-    </details>
+        <details>
+            <summary>Bunny Hood</summary>
+            <div>
+                test
+            </div>
+        </details>
     
-    <details>
-        <summary>Circus Leader's Mask</summary>
-        <div>
-            test
-        </div>
-    </details>
+        <details>
+            <summary>Captain's Hat</summary>
+            <div>
+                test
+            </div>
+        </details>
     
-    <details>
-        <summary>Couple's Mask</summary>
-        <div>
-            test
-        </div>
-    </details>
+        <details>
+            <summary>Circus Leader's Mask</summary>
+            <div>
+                test
+            </div>
+        </details>
     
-    <details>
-        <summary>Garo Mask</summary>
-        <div>
-            test
-        </div>
-    </details>
+        <details>
+            <summary>Couple's Mask</summary>
+            <div>
+                test
+            </div>
+        </details>
     
-    <details>
-        <summary>Giant's Mask</summary>
-        <div>
-            test
-        </div>
-    </details>
+        <details>
+            <summary>Garo Mask</summary>
+            <div>
+                test
+            </div>
+        </details>
     
-    <details>
-        <summary>Gibdo Mask</summary>
-        <div>
-            test
-        </div>
-    </details>
+        <details>
+            <summary>Giant's Mask</summary>
+            <div>
+                test
+            </div>
+        </details>
     
-    <details>
-        <summary>Mask of Scents</summary>
-        <div>
-            test
-        </div>
-    </details>
+        <details>
+            <summary>Gibdo Mask</summary>
+            <div>
+                test
+            </div>
+        </details>
     
-    <details>
-        <summary>Mask of Truth</summary>
-        <div>
-            test
-        </div>
-    </details>
+        <details>
+            <summary>Mask of Scents</summary>
+            <div>
+                test
+            </div>
+        </details>
     
-    <details>
-        <summary>Postman's Hat</summary>
-        <div>
-            test
-        </div>
-    </details>
+        <details>
+            <summary>Mask of Truth</summary>
+            <div>
+                test
+            </div>
+        </details>
     
-    <details>
-        <summary>Romani's Mask</summary>
-        <div>
-            test
-        </div>
-    </details>
+        <details>
+            <summary>Postman's Hat</summary>
+            <div>
+                test
+            </div>
+        </details>
     
+        <details>
+            <summary>Romani's Mask</summary>
+            <div>
+                test
+            </div>
+        </details>
+    </p>
 
 - スロット・個数指定
     - 7 Masks
