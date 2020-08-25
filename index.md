@@ -1011,7 +1011,7 @@
             test
         </div>
     </details>
-    <h3>アイテム使用<h3>
+    <h3>アイテム使用</h3>
     <details>
         <summary>Explode Hole in Ikana Castle Ceiling</summary>
         <div>
