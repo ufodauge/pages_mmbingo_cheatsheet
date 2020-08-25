@@ -6,7 +6,15 @@
     <summary>お面・仮面</summary>
     <div>
 
-- 単一のお面指定
+*単一のお面指定*
+
+<details>
+    <summary>All-Night Mask</summary>
+    <div>
+        test
+    </div>
+</details>
+
     - All-Night Mask
     - Blast Mask
     - Bunny Hood
