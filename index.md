@@ -96,7 +96,6 @@
                 オルゴールハウスで入手。<br>
                 <iframe width="320" height="240" src="https://www.youtube.com/embed/KiJ1WSwck6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
                 <iframe width="320" height="240" src="https://www.youtube.com/embed/9b0bJyke5PI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-                <iframe width="320" height="240" src="https://www.youtube.com/embed/UmxlJQ6MZLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </div>
         </details>
         <details>
@@ -111,7 +110,7 @@
             <div>
                 必要アイテム：あきビン、デクの棒 or 勇者の弓<br>
                 沼のクモ館の黄金のスタルチュラを30匹倒す<br>
-                <iframe src="https://player.twitch.tv/videos/598040487?t=1h58m33s" width="320" height="240" frameborder="0" allowfullscreen></iframe><br>
+                <iframe src="https://player.twitch.tv/?enableExtensions=true&muted=false&parent=twitch.tv&player=popout&t=1h58m31s&video=598040487" width="320" height="240" frameborder="0" allowfullscreen></iframe><br>
             </div>
         </details>
         <details>
