@@ -17,9 +17,9 @@
                 その周でバクダン屋のおふくろさんを助けてあげる必要がある。<br>
                 めおとイベントと重複出来ないので注意。<br>
                 フックショットを使う方法<br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/07LIVLLWADU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/07LIVLLWADU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
                 ホバー10回で上から侵入する方法<br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/NpmNj9t7tiE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/NpmNj9t7tiE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </div>
         </details>
         <details>
@@ -43,7 +43,7 @@
             <div>
                 必要アイテム：バクダン、フックショット or ゴロンの仮面＋ゾーラの仮面 etc…<br>
                 墓地奥の宝箱を開ける。<br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/uEvSPXr184o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/uEvSPXr184o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </div>
         </details>
         <details>
@@ -52,8 +52,8 @@
                 <b>Day1,2 22:00 - 05:00</b><br>
                 必要アイテム：ロマニーのお面 or バクダン or ボムチュウ<br>
                 ミルクバーのイベントをこなす。<br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/ihN8hEe5cQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/MxNvUoZC8yM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/ihN8hEe5cQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/MxNvUoZC8yM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </div>
         </details>
         <details>
@@ -64,10 +64,10 @@
                 <b>Day1 14:20 - 21:05</b> アンジュと深夜の密会を約束する。<br>
                 <b>Day1 00:00 - 05:59</b> アンジュと密会をし、カーフェイへの手紙を投函する。<br>
                 <b>Day2 16:10 - 21:05</b> マニ屋裏部屋でカーフェイからペンダントを貰い、アンジュに渡す（ペンダントを渡すのは翌朝でも構わない）。<br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/Itiihx9xLfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/Itiihx9xLfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
                 <b>Day3 18:00 - 23:59</b> サコンのアジトで太陽のお面を取り返す。<br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/6NIKOPHEHIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/QxcYk3HGbC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/6NIKOPHEHIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/QxcYk3HGbC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
                 <b>Day3 04:30 - 05:59</b> カーフェイとアンジュの結婚を見届ける。<br>
                 一日目にバクダン屋のおふくろを助けないこと。
             </div>
@@ -79,7 +79,7 @@
                 必要アイテム：エポナ<br>
                 ゴーマントラックでレースをし、勝利する（10ルピー/回）。<br>
                 その後のCSskipに繋げる場合↓<br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/tpyhSY9Aewo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/tpyhSY9Aewo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </div>
         </details>
         <details>
@@ -94,21 +94,24 @@
             <div>
                 必要アイテム：バクダン or ボムチュウ or フックショット or ゴロンの仮面<br>
                 オルゴールハウスで入手。<br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/KiJ1WSwck6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/9b0bJyke5PI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/UmxlJQ6MZLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/KiJ1WSwck6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/9b0bJyke5PI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/UmxlJQ6MZLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </div>
         </details>
         <details>
             <summary>Mask of Scents</summary>
             <div>
-                test
+                必要アイテム：デク姫<br>
+                デクナッツのほこらで入手<br>
             </div>
         </details>
         <details>
             <summary>Mask of Truth</summary>
             <div>
-                test
+                必要アイテム：あきビン、デクの棒 or 勇者の弓<br>
+                沼のクモ館の黄金のスタルチュラを30匹倒す<br>
+                <iframe src="https://player.twitch.tv/videos/598040487?t=1h58m33s" width="320" height="240" frameborder="0" allowfullscreen></iframe><br>
             </div>
         </details>
         <details>
@@ -1020,7 +1023,7 @@
             <summary>Enter 4th Day</summary>
             <div>
                 これが簡単 <br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/9DjOlGO9L9k?t=13" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;   picture-in-picture" allowfullscreen></iframe>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/9DjOlGO9L9k?t=13" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;   picture-in-picture" allowfullscreen></iframe>
             </div>
         </details>
         <details>
@@ -1083,7 +1086,7 @@
             <summary>2 blank C-buttons</summary>
             <div>
                 Equip Swap で増殖させたものをタックリーに盗ませるか、ポストに投函する（アロマ夫人や最終日夜のポストマンでもいい）<br>
-                <iframe width="480" height="360" src="https://www.youtube.com/embed/OcIuLYMEnkA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/OcIuLYMEnkA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;    picture-in-picture" allowfullscreen></iframe>
             </div>
         </details>
         <details>
