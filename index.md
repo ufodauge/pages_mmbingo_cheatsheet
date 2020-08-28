@@ -110,7 +110,7 @@
             <div>
                 必要アイテム：あきビン、デクの棒 or 勇者の弓<br>
                 沼のクモ館の黄金のスタルチュラを30匹倒す<br>
-                <iframe src="https://player.twitch.tv/?enableExtensions=true&muted=false&parent=twitch.tv&player=popout&t=1h58m31s&video=598040487" width="320" height="240" frameborder="0" allowfullscreen></iframe><br>
+                <iframe src="https://player.twitch.tv/?muted=false&parent=twitch.tv&t=1h58m31s&video=598040487" width="320" height="240" frameborder="0" scrolling="no" allowfullscreen="true"></iframe><br>
             </div>
         </details>
         <details>
