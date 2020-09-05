@@ -87,6 +87,7 @@
             <div>
                 必要アイテム：バクダン、勇者の弓、ボムチュウ or フックショット<br>
                 ロックビルの神殿（裏）で入手。<br>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/HZxtYqZKSAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
             </div>
         </details>
         <details>
@@ -116,11 +117,21 @@
         <details>
             <summary>Postman's Hat</summary>
             <div>
-                test
+                <b>Day3</b> 必要アイテム：母への速達<br>
+                最終日夜にポストハウスで速達を渡し、暫くするとクロックタウン西で座っているポストマンから貰う。<br>
+                その周でバクダン屋のおふくろを助けないこと。<br>
             </div>
         </details>
         <details>
             <summary>Romani's Mask</summary>
+            <div>
+                必要アイテム：勇者の弓、オバケ退治完了<br>
+                二日目夜にクリミアに話しかけ、イベントを完了する。<br>
+                ゴーマンレースを済ませていると修了証が2つ手に入るので便利。<br>
+            </div>
+        </details>
+        <details>
+            <summary>Captain's Hat, Gibdo Mask, and Garo Mask</summary>
             <div>
                 test
             </div>
@@ -129,37 +140,27 @@
         <details>
             <summary>7 Masks</summary>
             <div>
-                test
+                オススメのお面：デク、ゴロン、ゾーラ、大妖精、カーフェイ、ブレー面、カマロ、キータン、ポストハット　など<br>
+　              バクレツは他のイベントに支障をきたす場合が多いので注意<br>
             </div>
         </details>
         <details>
-            <summary>10 Masks</summary>
+            <summary>10/12 Masks</summary>
             <div>
-                test
-            </div>
-        </details>
-        <details>
-            <summary>12 Masks</summary>
-            <div>
-                test
+                オススメのお面：ギブド、座長、石ころ、隊長、夜ふかし<br>
             </div>
         </details>
         <details>
             <summary>14 Masks</summary>
             <div>
-                test
+                オススメのお面：うさぎ、ガロ、ロマーニ<br>
             </div>
         </details>
         <details>
-            <summary>Column of 4 Masks</summary>
+            <summary>Column of 4 Masks/Row of 6 Masks</summary>
             <div>
-                test
-            </div>
-        </details>
-        <details>
-            <summary>Row of 6 Masks</summary>
-            <div>
-                test
+                他のタスクの状況を鑑みて選択<br>
+                あまり噛み合わない場合は選択するメリットはあまり無いので注意<br>
             </div>
         </details>
     </div>
@@ -173,43 +174,46 @@
         <details>
             <summary>Hookshot</summary>
             <div>
-                test
+                必要アイテム：バクダン、ゾーラの仮面<br>
+                ↓バクダンが枯渇したときのリカバリー<br>
             </div>
         </details>
         <details>
             <summary>Light Arrow</summary>
             <div>
-                test
+                必要アイテム：バクダン、ゾーラの仮面（、フックショット）<br>
+                爆弾時止め<br>
             </div>
         </details>
         <details>
             <summary>Fire Arrow</summary>
             <div>
-                test
+                必要アイテム︰バクダン、ボムチュウ or ゴロンの仮面<br>
             </div>
         </details>
         <details>
             <summary>Ice Arrow</summary>
             <div>
-                test
+                必要アイテム：フックショット、潮騒のボサノバ<br>
+                正直ここよくわかってない<br>
             </div>
         </details>
         <details>
             <summary>2 Elemental Arrows</summary>
             <div>
-                test
+                3種の矢から2つ<br>
             </div>
         </details>
         <details>
             <summary>Powder Keg</summary>
             <div>
-                test
+                必要アイテム：ゴロンの仮面、バクダン or ［勇者の弓、デクの棒 or 炎の矢］<br>
             </div>
         </details>
         <details>
             <summary>20 Magic Beans</summary>
             <div>
-                test
+                必要アイテム：190ルピー<br>
             </div>
         </details>
         <h3>ビンアイテム</h3>
