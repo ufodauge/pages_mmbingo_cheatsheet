@@ -820,21 +820,35 @@
         </div>
     </details>
     <details>
-        <summary>6 Hearts (no dupe)</summary>
+        <summary>6/7/8 Hearts (no dupe)</summary>
         <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>7 Hearts (no dupe)</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>8 Hearts (no dupe)</summary>
-        <div>
-            test
+            credits: iwabi74<br>
+            ・クロック南（取得済）<br>
+            ・沼地道中の樹<br>
+            ・ボートクルーズ屋根<br>
+            ・デクナッツ城<br>
+            --- HP4 ---<br>
+            ・山里アキンドナッツ<br>
+            ・北公園<br>
+            ・ドドンゴ<br>
+            (・グレベ柵前)<br>
+            ・ローザ姉妹<br>
+            --- HP5 ---<br>
+            ・剣道場<br>
+            ・謎の手<br>
+            ・ピーハット<br>
+            ・ウッドフォール宝箱<br>
+            ・イカーナアキンドナッツ<br>
+            --- HP6 ---<br>
+            ・オドルワHC<br>
+            --- HP7 ---<br>
+            ・ライクライク<br>
+            ・グレベアキンドナッツ<br>
+            ・エバン<br>
+            --- HP8 ---<br>
+            他にHPタスクがある場合、下から順に削っていく？<br>
+            <iframe width="320" height="240" src="https://www.youtube.com/embed/4rs1HNBdRFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+            <iframe width="320" height="240" src="https://www.youtube.com/embed/CRn9MawdPSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
         </div>
     </details>
     </div>
