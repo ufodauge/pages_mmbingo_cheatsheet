@@ -142,6 +142,36 @@
             <div>
                 オススメのお面：デク、ゴロン、ゾーラ、大妖精、カーフェイ、ブレー面、カマロ、キータン、ポストハット　など<br>
 　              バクレツは他のイベントに支障をきたす場合が多いので注意<br>
+                <hr>
+                <blockquote>
+                    credit: iwabi74<br>
+                </blockquote>
+                n Masks<br>
+                ・デクナッツ<br>
+                ・カーフェイ<br>
+                ・ブレーメン<br>
+                ・大妖精<br>
+                ・カマロ<br>
+                <hr>
+                セット1<br>
+                ・キータン<br>
+                ・ポストハット<br>
+                <hr>
+                セット2<br>
+                ・バクレツ<br>
+                ・ゾーラ<br>
+                <hr>
+                セット3<br>
+                ・ゴロン<br>
+                ・石ころ or キータン<br>
+                <hr>
+                その他優先度順<br>
+                ・ギブド<br>
+                ・うさぎずきん<br>
+                ・隊長<br>
+                ・座長<br>
+                ・夜更かし<br>
+                ・ロマーニ<br>
             </div>
         </details>
         <details>
@@ -658,61 +688,89 @@
     <summary>団員手帳系</summary>
     <div style="padding-left: 3em;">
     <details>
-        <summary>??? Happiness Seal</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Curiosity Shop Owner Happiness Seal</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Gorman Brother's Happiness Seal</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Postman Happiness Seal</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Romani Happiness Seal</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>Rosa Sister's Happiness Seal</summary>
-        <div>
-            00:00 - 06:00 カマロを成仏してカマロのお面を入手、ローザ姉妹に踊りを披露する。<br>
-            最終日にもカマロはいるが、ローザ姉妹はいないので注意。
-        </div>
-    </details>
-    <h3>個数指定・特殊タスク</h3>
-    <details>
-        <summary>All Notebook Pictures</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>6 Happiness Seals</summary>
-        <div>
-            test
-        </div>
-    </details>
-    <details>
-        <summary>10 Happiness Seals</summary>
-        <div>
-            test
-        </div>
-    </details>
+            <summary>??? Happiness Seal</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Curiosity Shop Owner Happiness Seal</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Gorman Brother's Happiness Seal</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Postman Happiness Seal</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Romani Happiness Seal</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>Rosa Sister's Happiness Seal</summary>
+            <div>
+                00:00 - 06:00 カマロを成仏してカマロのお面を入手、ローザ姉妹に踊りを披露する。<br>
+                最終日にもカマロはいるが、ローザ姉妹はいないので注意。
+            </div>
+        </details>
+        <h3>個数指定・特殊タスク</h3>
+        <details>
+            <summary>All Notebook Pictures</summary>
+            <div>
+                test
+            </div>
+        </details>
+        <details>
+            <summary>6/10 Happiness Seals</summary>
+            <div>
+                <blockquote>
+                    credit: iwabi74<br>
+                </blockquote>
+                <hr>
+                6 Happiness Seals<br>
+                ・ボンバーズ<br>
+                ・カマロ<br>
+                ・ローザ姉妹<br>
+                ・グルグルさん<br>
+                ・謎の手<br>
+                ・シロウ君<br>
+                <hr>
+                10 Happiness Seals<br>
+                確定<br>
+                ・ボンバーズ<br>
+                ・シロウくん<br>
+                ・カマロ<br>
+                ・ローザ姉妹<br>
+                ・グルグルさん
+                セット1<br>
+                <hr>
+                ・お婆<br>
+                ・謎の手<br>
+                ・ゴーマン座長<br>
+                ・トト<br>
+                ・ナデクロ<br>
+                *エポナを回収している間にウサギずきんを回収できる<br>
+                <hr>
+                セット2<br>
+                ・アンジュ<br>
+                ・カーフェイ<br>
+                ・アロマ婦人<br>
+                ・ゴーマン座長<br>
+                ・トト<br>
+                ・ドトール町長(4日目)<br>
+            </div>
+        </details>
     </div>
 </details>
 
@@ -804,7 +862,15 @@
     <details>
         <summary>4 Business Scrub HPs</summary>
         <div>
-            test
+            4つのアキンドナッツのハートのかけらを入手。<br>
+            沼地：<br>
+            <iframe width="320" height="240" src="https://www.youtube.com/embed/4rs1HNBdRFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+            <iframe width="320" height="240" src="https://www.youtube.com/embed/CRn9MawdPSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+            ゴロンの里：<br>
+            ゾーラホール：<br>
+            <iframe width="320" height="240" src="https://www.youtube.com/embed/993Q2CM-ZJg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+            イカーナ：<br>
+            <iframe width="320" height="240" src="https://www.youtube.com/embed/N3iKGMinhTw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
         </div>
     </details>
     <details>
@@ -822,7 +888,9 @@
     <details>
         <summary>6/7/8 Hearts (no dupe)</summary>
         <div>
-            credits: iwabi74<br>
+            <blockquote>
+                credit: iwabi74<br>
+            </blockquote>
             ・クロック南（取得済）<br>
             ・沼地道中の樹<br>
             ・ボートクルーズ屋根<br>
@@ -847,8 +915,6 @@
             ・エバン<br>
             --- HP8 ---<br>
             他にHPタスクがある場合、下から順に削っていく？<br>
-            <iframe width="320" height="240" src="https://www.youtube.com/embed/4rs1HNBdRFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-            <iframe width="320" height="240" src="https://www.youtube.com/embed/CRn9MawdPSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
         </div>
     </details>
     </div>
